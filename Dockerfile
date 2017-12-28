@@ -1,4 +1,4 @@
 FROM alpine:3.7
 
-RUN apk add --no-cache curl bash jq libxslt git tar
+RUN apk add --no-cache curl bash jq libxslt git tar libxml2-utils
 
