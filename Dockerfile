@@ -8,5 +8,3 @@ RUN apk add --no-cache libxslt libxml2-utils xmlstarlet
 
 # JSON tools
 RUN apk add --no-cache jq 
-
-
